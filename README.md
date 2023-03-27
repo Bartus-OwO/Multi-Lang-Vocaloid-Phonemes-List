@@ -1,4 +1,4 @@
-# Vocaloid-Polish-Phonemes-List
+# Vocaloid Polish Phonemes List
 
 - r/l = {4}
 - ł = {w}
