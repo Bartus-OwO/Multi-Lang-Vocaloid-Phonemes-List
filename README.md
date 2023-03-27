@@ -1,6 +1,6 @@
 # Multi Lang Vocaloid Phonemes List
 
-**🇵🇱 Polish (For Japanese Vocaloids):**
+**🇵🇱 Polish (For 🇯🇵 Japanese Vocaloids):**
 - r / l = {4}
 - ł = {w}
 - u = {M}
