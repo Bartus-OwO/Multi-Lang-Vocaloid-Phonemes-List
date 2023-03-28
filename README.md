@@ -11,5 +11,5 @@
 - cz / ć = {tS}
 - dz / dż / dź = {dZ}
 - ń / ni = {J}
-- cu = {ts M}
+- c = {ts}
 - y = {i} 
